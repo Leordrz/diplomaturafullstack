@@ -1,0 +1,13 @@
+body {
+    font-family: Verdana;
+    color: #494949;
+    background-color:#ebebeb;
+    margin-left: 50px;
+} 
+header {
+    font-family: Verdana;
+    color: #494949;
+    text-align: center;
+}
+img{width: 250px;
+}
