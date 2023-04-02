@@ -2,7 +2,10 @@ body {
     font-family: Verdana;
     color: #494949;
     background-color:#ebebeb;
-    margin-left: 50px;
+    margin-left: 100px;
+    line-height: 1.2;
+    margin-top: 50px;
+    margin-bottom: 350px;
 } 
 header {
     font-family: Verdana;
@@ -10,4 +13,8 @@ header {
     text-align: center;
 }
 img{width: 250px;
+    border-radius: 50%;
+}
+p{text-align:center;
+    font-style: italic;
 }
