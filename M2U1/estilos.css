@@ -1,0 +1,32 @@
+body {
+    font-family: 'Bad Script', cursive;
+    color: #494949;
+    background: linear-gradient(to bottom, #f6f8f9 0%,#e5ebee 54%,#d7dee3 64%,#f5f7f9 100%);
+    margin-left: 100px;
+    line-height: 1.2;
+    margin-top: 50px;
+    margin-bottom: 350px;
+    font-size:20px;
+} 
+header {
+    font-family: 'Rock Salt', cursive;
+    color: #494949;
+    text-align: center;
+}
+img{width: 250px;
+    border-radius: 50%;
+    box-shadow: 15px 15px 30px #888;
+}
+p{font-family: 'Annie Use Your Telescope', cursive;
+    text-align:center;
+    font-style: italic;
+    line-height: 2;
+    font-size:30px;
+}
+
+
+/* font-family: 'Annie Use Your Telescope', cursive;
+font-family: 'Bad Script', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Rock Salt', cursive;
+*/
