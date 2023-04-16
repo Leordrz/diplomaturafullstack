@@ -1,0 +1,46 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+#contenedor{
+	border:3px solid #0b0b0b;
+    margin-top: 100px;
+	width: 450px;
+	height: 450px;
+    display:inline-flex;
+    flex-direction:row-reverse;
+    align-items:center;
+	}
+    
+#rojo{
+    width: 33.33%;
+    height: 33.33%;
+    background-color: red;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#azul{
+    margin-top:0;
+    width: 33.33%;
+    height: 33.33%;
+    background-color:blue;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#verde{
+    margin-top:0;
+    width: 33.33%;
+    height: 33.33%;
+    background-color:green;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
