@@ -42,7 +42,7 @@ aside {
 		background-color: #000;
 	}
 	#contenedor {
-		width: 100vw;
+		width: 100%;
 	}
 	
 	nav {background: rgba(180, 155, 72, 0.918);
